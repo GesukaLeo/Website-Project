@@ -1,6 +1,9 @@
-body {
+body {    
+    background-image: url("image1.jpeg");
     background-color: darkorange;
-    color: rgb(241, 18, 10);
+    background-position: center;
+    background-repeat:repeat ;
+    color: rgb(247, 239, 239);
 }
 
 
@@ -11,4 +14,29 @@ h1{
     font: italic 200%  fantasy;
     text-align: center;
     border: 3px groove #380ba3;
+    width: fit-content;
+    padding: 10px;
+}
+
+
+h2 {
+    color: lightcoral;
+    background-color: #3f1139;
+    width: fit-content;
+    padding: 5px; 
+}
+
+h3 {
+    color: rgb(13, 14, 13);
+    background-color: rgb(243, 64, 10);
+    width: fit-content;
+    padding: 10px;
+
+}
+
+h4 {
+    color: lightyellow;
+    background-color: slateblue;
+    width: fit-content;
+    padding: 10px;
 }
