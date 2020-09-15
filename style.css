@@ -40,3 +40,32 @@ h4 {
     width: fit-content;
     padding: 10px;
 }
+
+
+
+img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+
+
+a {
+    background-color: orange;
+    color: peachpuff;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+
+a:hover {
+    background-color: rgb(12, 238, 31);
+    color: rgb(252, 249, 245);
+    padding: 10px;
+
+}
