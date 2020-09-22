@@ -77,3 +77,13 @@ table{
     width: 500px;
     
 }
+
+
+/* Classes --- you can change a  paricular tag using the class --- dot noation */
+
+.TopNav {  /* Top Navigation */
+
+    background-color: papayawhip;
+    width: auto;
+    padding: 10px;
+}
