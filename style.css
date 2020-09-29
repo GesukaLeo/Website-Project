@@ -87,3 +87,63 @@ table{
     width: auto;
     padding: 10px;
 }
+
+
+/* Format the form fields */
+
+input[type=text] {
+
+    width: 100%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;
+    background-color: #095ce0;
+    color: #0d0f12;
+
+}
+
+
+
+input[type=text]:focus {
+    border: 5px solid #e32407;
+}
+
+
+
+input[type=password] {
+
+    width: 100%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;
+    background-color:#095ce0;
+    color: #0d0f12;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
